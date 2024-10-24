@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.12" class="java.beans.XMLDecoder">
+ <object class="co.edu.uniquindio.preparcil2.universidad.model.Universidad" id="Universidad0">
+  <void property="nombreProgramasPresencial">
+   <void method="add">
+    <string>Matematicas</string>
+   </void>
+   <void method="add">
+    <string>Calculo</string>
+   </void>
+  </void>
+  <void property="programas">
+   <void method="add">
+    <object class="co.edu.uniquindio.preparcil2.universidad.model.Programa">
+     <void property="adscritos">
+      <int>25</int>
+     </void>
+     <void property="codigo">
+      <int>1</int>
+     </void>
+     <void property="nombre">
+      <string>Matematicas</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.preparcil2.universidad.model.Programa">
+     <void property="adscritos">
+      <int>35</int>
+     </void>
+     <void property="codigo">
+      <int>2</int>
+     </void>
+     <void property="nombre">
+      <string>Programacion</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.preparcil2.universidad.model.Programa">
+     <void property="adscritos">
+      <int>15</int>
+     </void>
+     <void property="codigo">
+      <int>3</int>
+     </void>
+     <void property="nombre">
+      <string>Calculo</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

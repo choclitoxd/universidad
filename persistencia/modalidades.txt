@@ -1,0 +1,2 @@
+modalidad.distancia=Distancia
+modalidad.presencial=Presencial
